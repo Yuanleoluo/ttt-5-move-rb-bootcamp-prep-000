@@ -8,9 +8,9 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(a)
-  
+
 end
 
-def move()
+def move(array, index, X_or_O)
 
 end
