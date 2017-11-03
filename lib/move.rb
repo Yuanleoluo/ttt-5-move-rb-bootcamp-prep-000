@@ -11,6 +11,6 @@ def input_to_index(a)
   a.to_i
 end
 
-def move(array, index, XO)
-  array[index]=XO
+def move(array, index, value)
+  array[index]=value
 end
