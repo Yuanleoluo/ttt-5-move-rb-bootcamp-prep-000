@@ -11,6 +11,6 @@ def input_to_index(a)
   a.to_i
 end
 
-def move(array, index, X_or_O)
+def move(array, index, XO)
   array[index]=X_or_O
 end
